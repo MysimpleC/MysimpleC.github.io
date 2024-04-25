@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: About AP Macroeconomics
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I recently read a book -- 5 steps to a 5, and I highly recommend that every students who commits to get a 5 in the exam should read this book.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+P.S. AP, in this post, means Advanced Placement®, AP® is a trademark registered by the College Board, which is not affiliated with, and does not endorse, this website.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Written on Apr. 26, 2024
